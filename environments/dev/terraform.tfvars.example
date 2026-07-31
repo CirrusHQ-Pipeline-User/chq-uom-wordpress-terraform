@@ -1,0 +1,9 @@
+aws_region = "eu-west-2"
+
+application_name = "wordpress"
+
+environment = "dev"
+
+hosted_zone = "example.com"
+
+cidr_base = "10.100.0.0/16"
